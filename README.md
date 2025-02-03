@@ -1,4 +1,4 @@
-# Validating the Llama 3.2 1B Instruct Model on the MATH Dataset
+# Evaluating the Llama 3.2 1B Instruct Model on the MATH Dataset
 
 <img width="1411" alt="image" src="https://github.com/user-attachments/assets/0bda4bc7-c3ed-401e-96be-b0716db92826">
 
